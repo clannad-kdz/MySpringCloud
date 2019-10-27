@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-spring-cloud-provider/01-spring-cloud-provider.iml" filepath="$PROJECT_DIR$/01-spring-cloud-provider/01-spring-cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-spring-cloud-consumer/02-spring-cloud-consumer.iml" filepath="$PROJECT_DIR$/02-spring-cloud-consumer/02-spring-cloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-springcloud-eureka-server/03-springcloud-eureka-server.iml" filepath="$PROJECT_DIR$/03-springcloud-eureka-server/03-springcloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-springcloud-provider2/04-springcloud-provider2.iml" filepath="$PROJECT_DIR$/04-springcloud-provider2/04-springcloud-provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-springcloud-hystrix-dashboard/05-springcloud-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/05-springcloud-hystrix-dashboard/05-springcloud-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-springcloud-feign/06-springcloud-feign.iml" filepath="$PROJECT_DIR$/06-springcloud-feign/06-springcloud-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-springcloud-gateway-zuul/07-springcloud-gateway-zuul.iml" filepath="$PROJECT_DIR$/07-springcloud-gateway-zuul/07-springcloud-gateway-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-springcloud-config-server/08-springcloud-config-server.iml" filepath="$PROJECT_DIR$/08-springcloud-config-server/08-springcloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-springcloud-config-client/09-springcloud-config-client.iml" filepath="$PROJECT_DIR$/09-springcloud-config-client/09-springcloud-config-client.iml" />
+    </modules>
+  </component>
+</project>

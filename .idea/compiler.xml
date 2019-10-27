@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="01-spring-cloud-provider" />
+        <module name="02-spring-cloud-consumer" />
+        <module name="03-springcloud-eureka-server" />
+        <module name="04-springcloud-provider2" />
+        <module name="05-springcloud-hystrix-dashboard" />
+        <module name="06-springcloud-feign" />
+        <module name="07-springcloud-gateway-zuul" />
+        <module name="08-springcloud-config-server" />
+        <module name="09-springcloud-config-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-spring-cloud-provider" target="1.8" />
+      <module name="02-spring-cloud-consumer" target="1.8" />
+      <module name="03-springcloud-eureka-server" target="1.8" />
+      <module name="04-springcloud-provider2" target="1.8" />
+      <module name="05-springcloud-hystrix-dashboard" target="1.8" />
+      <module name="06-springcloud-feign" target="1.8" />
+      <module name="07-springcloud-gateway-zuul" target="1.8" />
+      <module name="08-springcloud-config-server" target="1.8" />
+      <module name="09-springcloud-config-client" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01-spring-cloud-provider" options="-parameters" />
+      <module name="02-spring-cloud-consumer" options="-parameters" />
+      <module name="03-springcloud-eureka-server" options="-parameters" />
+      <module name="04-springcloud-provider2" options="-parameters" />
+      <module name="05-springcloud-hystrix-dashboard" options="-parameters" />
+      <module name="06-springcloud-feign" options="-parameters" />
+      <module name="07-springcloud-gateway-zuul" options="-parameters" />
+      <module name="08-springcloud-config-server" options="-parameters" />
+      <module name="09-springcloud-config-client" options="-parameters" />
+    </option>
+  </component>
+</project>
